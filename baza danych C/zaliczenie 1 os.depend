@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1702912003 source:c:\users\micha³\desktop\zaliczenie 1 os\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1704812508 source:c:\users\szyma\desktop\zaliczenie 1 os\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+

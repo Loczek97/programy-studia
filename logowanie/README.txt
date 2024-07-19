@@ -1,0 +1,1 @@
+Prosty system logowania i rejestracji stworzony w C++ z wykorzystaniem programowania obiektowego.

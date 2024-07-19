@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1719933856 source:c:\users\micha³\desktop\logowanie\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<stdexcept>
+
